@@ -1,0 +1,33 @@
+
+Version 2.6.1 
+- NEW: Added additional status codes.
+- NEW: Added additional fields to Device table.
+- NEW: Added option to "checkInstall" to display list of modified files.
+- NEW: Added "useSSL" option to Google reverse-geocoding configuration.
+- NEW: Added support for OpenCageData reverse-geocoding.
+- NEW: Map pushpin replay can be now configured to skip over nearby pushpins.
+- NEW: Added "tripElapse" column to Driving/Stopped report
+- NEW: Added support for fuel-tank #2 fuel level profiling
+- NEW: Added additional geozone load/import options
+- UPD: "startupInit.Device.OpenDMTPFieldInfo=true" needed to for OpenDMTP fields.
+- FIX: Fixed index map link display for Event Detail (by Group) report
+- DCS: astra] Added missing "estimateOdometer" support.
+- DCS: tk10x] Added support for configuring hearbeat ACK.
+- DCS: tk10x] Added "speedConversionFactor" property for custom speed units
+
+-----------------------------------------------------------------------------------
+
+Project Home Page:
+    http://www.opengts.org
+
+Download Latest Version from SourceForge:
+    https://sourceforge.net/projects/opengts/
+
+Documentation (installation/configuration, tutorials, FAQ):
+    http://www.opengts.org/FAQ.html
+    http://www.opengts.org/documentation.html
+
+GTS Enterprise:
+    http://www.geotelematic.com/gts.html
+    http://www.geotelematic.com/documentation.html
+
